@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-626c8fb82fb246aeacfde051555b1797
+  name: MIT Climate Primer website
+  url: https://climateprimer.mit.edu/
+  weight: 1000
